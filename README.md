@@ -1,6 +1,6 @@
-# Hi, I'm Daryl.
+# Hi, I'm Daryl 👋
 
-## About Me
+## About Me 
 
 I'm a Junior Developer currently expanding my back-end knowledge. When not working on my own projects I am studying HND Web Development at the City of Glasgow College. 
 
