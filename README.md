@@ -6,5 +6,5 @@ I'm a Junior Developer currently expanding my back-end knowledge. When not worki
 
 ## Current Projects
 
-I'm currently working on a blogging platform using React on the front-end and Node.js/Express.js on the back-end. Find out more on my website.
+I'm currently working on a blogging platform using React on the front-end and Node.js/Express.js on the back-end. Find out more on my website. www.daryl-stensland.com/
 
