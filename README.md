@@ -6,5 +6,9 @@ I'm a Junior Developer currently expanding my back-end knowledge. When not worki
 
 ## Current Projects
 
-I'm currently working on a blogging platform using React on the front-end and Node.js/Express.js on the back-end. Find out more on my website. www.daryl-stensland.com/
+I'm currently working on a Node.js course by [Jonas Schmedtmann](https://codingheroes.io/index.html), learning Node, Express and MongoDB. 
+
+## Get in touch
+
+Find out more on my [website](www.daryl-stensland.com/) or get in touch via [LinkedIn](https://www.linkedin.com/in/daryl-stensland/).
 
