@@ -10,5 +10,5 @@ I'm currently working on a Node.js course by [Jonas Schmedtmann](https://codingh
 
 ## Get in touch
 
-Get in touch via [LinkedIn](https://www.linkedin.com/in/daryl-stensland/).
+Get in touch via [LinkedIn](https://www.linkedin.com/in/daryl-stensland/) or checkout [my website](https://www.daryl-stensland.com).
 
