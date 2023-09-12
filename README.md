@@ -2,7 +2,7 @@
 
 ## About Me 
 
-I'm a Junior Developer currently expanding my back-end knowledge. When not working on my own projects I am studying HND Web Development at the City of Glasgow College. 
+I'm a full-stack web developer currently studying at the University of the West of Scotland. 
 
 ## Get in touch
 
