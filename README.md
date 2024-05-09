@@ -1,12 +1,10 @@
 # Daryl Stensland
 
-## 👨‍💻 Full-Stack Developer | 📚 Student @ UWS | 🌐 [Portfolio Website](https://www.daryl-stensland.com/)
+## 👨‍💻 Full-Stack Developer | 🎓 Web and Mobile Development Graduate | 🌐 [Portfolio Website](https://www.daryl-stensland.com/)
 
 🔭 Exploring the vast world of development, always exploring new technologies.
 
-🎓 Currently pursuing a Bachelor of Science in Web and Mobile Development at the University of the West of Scotland.
-
-🌟 Committed to leveraging technology to solve complex challenges in the business world.
+🎓 Recent graduate from UWS with a Bachelor of Science in Web and Mobile Development.
 
 🚀 Passionate about creating dynamic and user-friendly web experiences and eager to embrace new challenges in the tech industry.
 
